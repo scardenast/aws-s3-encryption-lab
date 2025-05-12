@@ -91,6 +91,3 @@ Este ejercicio aplica conceptos esenciales de **seguridad en la nube**:
 
 ---
 
-## ✅ Resultado
-
-Repositorio completo, versionado y documentado como parte del portafolio profesional en seguridad cloud.
