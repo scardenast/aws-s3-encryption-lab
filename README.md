@@ -1,10 +1,10 @@
-# 🔐 AWS S3 Encryption & Logging Lab
+# AWS S3 Encryption & Logging Lab
 
-Este laboratorio demuestra cómo implementar cifrado del lado del servidor (SSE) en un bucket S3 y habilitar el registro de accesos para auditoría. Es parte del aprendizaje de buenas prácticas de **seguridad en la nube (cloud security)**.
+Este laboratorio consistió en aplicar cifrado del lado del servidor (SSE) a un bucket de Amazon S3 y habilitar los registros de acceso para poder auditar quién entra, desde dónde y en qué momento. Son pasos simples, pero importantes si se quiere manejar datos con un mínimo de criterio de seguridad.
 
 ---
 
-## 🧰 Servicios y herramientas utilizados
+## Servicios y herramientas utilizados
 
 * **Amazon S3** — Almacenamiento de objetos y configuración de seguridad
 * **AWS CLI** — Interacción mediante línea de comandos
@@ -14,7 +14,7 @@ Este laboratorio demuestra cómo implementar cifrado del lado del servidor (SSE)
 
 ---
 
-## 🧱 Estructura del proyecto
+## Estructura del proyecto
 
 ```plaintext
 aws-s3-encryption-lab/
@@ -29,7 +29,7 @@ aws-s3-encryption-lab/
 
 ---
 
-## 🚀 Pasos realizados
+## Pasos realizados
 
 1. Crear estructura del proyecto y repositorio local
 2. Crear bucket con nombre dinámico desde CLI
@@ -41,7 +41,7 @@ aws-s3-encryption-lab/
 
 ---
 
-## 📸 Evidencias del proceso
+## Evidencias del proceso
 
 ### 1️⃣ Estructura del proyecto creada
 
@@ -73,21 +73,7 @@ aws-s3-encryption-lab/
 
 ---
 
-## 🌍 Relevancia del laboratorio
-
-Este ejercicio aplica conceptos esenciales de **seguridad en la nube**:
-
-* Implementación de **cifrado obligatorio** (SSE)
-* Prevención de errores por configuración incorrecta
-* Auditoría mediante logs y detección de accesos
-
----
-
-## 👤 Autor
-
-**Sebastián Cárdenas**
-*Aspirante a AWS Cloud Practitioner | Estudiante de Ingeniería en Ciberseguridad*
-📫 Contacto: [sebastian.cardenas.t@gmail.com](mailto:sebastian.cardenas.t@gmail.com)
+## Contacto: [sebastian.cardenas.t@gmail.com](mailto:sebastian.cardenas.t@gmail.com)
 
 ---
 
