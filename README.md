@@ -73,7 +73,6 @@ aws-s3-encryption-lab/
 
 ---
 
-## Contacto: [sebastian.cardenas.t@gmail.com](mailto:sebastian.cardenas.t@gmail.com)
+Contacto: [sebastian.cardenas.t@gmail.com](mailto:sebastian.cardenas.t@gmail.com)
 
----
 
